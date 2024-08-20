@@ -1,0 +1,36 @@
+E:\الكليه\العملي\College\College\bin\Debug\College.exe.config
+E:\الكليه\العملي\College\College\bin\Debug\College.exe
+E:\الكليه\العملي\College\College\bin\Debug\College.pdb
+E:\الكليه\العملي\College\College\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\الكليه\العملي\College\College\bin\Debug\Guna.UI.dll
+E:\الكليه\العملي\College\College\obj\Debug\College.csproj.AssemblyReference.cache
+E:\الكليه\العملي\College\College\obj\Debug\College.csproj.SuggestedBindingRedirects.cache
+E:\الكليه\العملي\College\College\obj\Debug\College.Departments.resources
+E:\الكليه\العملي\College\College\obj\Debug\College.Fees.resources
+E:\الكليه\العملي\College\College\obj\Debug\College.Form1.resources
+E:\الكليه\العملي\College\College\obj\Debug\College.Login.resources
+E:\الكليه\العملي\College\College\obj\Debug\College.Properties.Resources.resources
+E:\الكليه\العملي\College\College\obj\Debug\College.Students.resources
+E:\الكليه\العملي\College\College\obj\Debug\College.Tecshers.resources
+E:\الكليه\العملي\College\College\obj\Debug\College.csproj.GenerateResource.cache
+E:\الكليه\العملي\College\College\obj\Debug\College.csproj.CoreCompileInputs.cache
+E:\الكليه\العملي\College\College\obj\Debug\College.csproj.CopyComplete
+E:\الكليه\العملي\College\College\obj\Debug\College.exe
+E:\الكليه\العملي\College\College\obj\Debug\College.pdb
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\bin\Debug\College.exe.config
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\bin\Debug\College.exe
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\bin\Debug\College.pdb
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.Login.resources
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.Tecshers.resources
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.exe
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.pdb
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.starting.resources
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.depart2.resources
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.studnt.resources
+C:\Users\LENOVO\OneDrive\سطح المكتب\العملي\College\College\obj\Debug\College.accounting.resources
