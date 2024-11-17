@@ -1,1 +1,1 @@
-built using Windows Forms in C# enables administrators to manage student information, course details, and faculty records efficiently. The system simplifies the management of academic processes through an intuitive user interface.
+built using Windows Forms in C# enables administrators to manage student information, course details, and faculty records efficiently. The system simplifies the management of academic processes through an intuitive user interface
